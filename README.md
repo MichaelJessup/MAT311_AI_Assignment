@@ -1,2 +1,9 @@
-# MAT311_Final
-Final for MAT311 Intro to Data Science
+# MAT311 AI Assignment
+
+The notebook analyzes the card_transdata.csv file and fraudulant data.
+
+I used GitHub Copilot Chat with ChatGPT-5 mini as the model.
+
+Overall, I mainly just described the outcome that wanted. When it was having trouble, I would basically tell it what I wanted to do by having it be my 'Code Monkey'. Essentially it would give it all of the logic and then ask it to turn that into code. I also gave it a prompt at the beginning which helped make things a lot easier. I asked it to make a Markdown cell with the prompt I gave it followed by code cells for the response. This let me click the 'Apply to Code' button and have it put the code and prompt in without having to type anything.
+
+I found it useful to have it write the code, but I think it slowed me down. I would have written this faster than I got the AI to create the Bivariate plots. It struggled a lot with understanding them and would also try to 'simplify the graph' by only showing the top 20 results even when I never asked. It also tried to come up with ways to filter out data by only graphing the fraudulant data instead of showing both that and non-fraudulant data. There were also cases where it kept trying to reimport libraries that were already imported. A lot of these problems I would attribute to not having context of the full file or the data, but I did give it that context and still had these issues. I was able to kind of turn my brain off when doing this which was nice, but then I would have to turn it back on again when it made a mistake. I don't think Vibe coding was particularly good at being useable for those who aren't Data Scientists or used to coding. It seemed to me like I would have an easier time learning how to do this myself than trying to get AI to do it for me if I had only a vague idea of what I wanted.
